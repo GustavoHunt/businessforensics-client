@@ -1,4 +1,5 @@
 # Test for Business Forensics
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8dcd7831059f49cb9a3dfef5d6587bb5)](https://www.codacy.com/app/GustavoHunt/businessforensics-client?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GustavoHunt/businessforensics-client&amp;utm_campaign=Badge_Grade)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.5.
 
